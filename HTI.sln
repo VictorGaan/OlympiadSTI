@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MSLogistics", "MSLogistics\MSLogistics.csproj", "{ED470AFD-A860-4F7F-B97F-EED1A2B4925F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blockchain", "Blockchain\Blockchain.csproj", "{274BEC5B-025A-4916-91A2-5920FEF44097}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "Database\Database.csproj", "{7ED71D44-0D3C-45D2-BA3A-79D7BB8DC885}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED470AFD-A860-4F7F-B97F-EED1A2B4925F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED470AFD-A860-4F7F-B97F-EED1A2B4925F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED470AFD-A860-4F7F-B97F-EED1A2B4925F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED470AFD-A860-4F7F-B97F-EED1A2B4925F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{274BEC5B-025A-4916-91A2-5920FEF44097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274BEC5B-025A-4916-91A2-5920FEF44097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274BEC5B-025A-4916-91A2-5920FEF44097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274BEC5B-025A-4916-91A2-5920FEF44097}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ED71D44-0D3C-45D2-BA3A-79D7BB8DC885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ED71D44-0D3C-45D2-BA3A-79D7BB8DC885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ED71D44-0D3C-45D2-BA3A-79D7BB8DC885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ED71D44-0D3C-45D2-BA3A-79D7BB8DC885}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {028505DA-F071-4DED-B05B-75E7ABC24585}
+	EndGlobalSection
+EndGlobal

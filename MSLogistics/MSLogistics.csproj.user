@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AddClient.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddEmployee.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddOrderWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddPoint.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ClientPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CourierPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MainUserControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ManagerPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AddClient.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddEmployee.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddOrderWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddPoint.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ClientPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CourierPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainUserControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManagerPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
